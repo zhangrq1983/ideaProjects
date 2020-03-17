@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DesignPattern:Web exploded">
+    <output-path>$PROJECT_DIR$/../apache-tomcat-9.0.19-idea/webapps/DesignPattern</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DesignPattern/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DesignPattern" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/springboot_sm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_sm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_sm/src/main/java/com/controller/UserController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_sm/src/main/java/com/mapper/UserMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_sm/src/main/java/com/service/UserService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_sm/src/main/java/com/service/UserServiceImpl.java" charset="UTF-8" />
+  </component>
+</project>
